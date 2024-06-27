@@ -1,0 +1,176 @@
+@media (max-width: 1270px) {
+    .session {
+        margin-bottom: 120px;
+    }
+    
+    .session-content {
+        flex-wrap: wrap;
+    }
+
+    .session-img {
+        padding-bottom: 24px;
+    }
+
+        .step {
+            margin-bottom: 180px;
+        }
+}
+
+@media (max-width: 1050px) {
+    .tourney-content {
+        display: none;
+    }
+    
+    .mobile {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .tourney-title {
+        font-size: 32px;
+    }
+
+    .tourney-img {
+        padding: 24px 0;
+    }
+
+    .session-title {
+        font-size: 32px;
+    }
+
+    .step-title {
+        flex-wrap: wrap;
+    }
+
+    .step-title h2 {
+        font-size: 45px;
+        padding-bottom: 20px;
+    }
+
+    .step-title a {
+        text-align: left;
+    }
+
+    .step-items {
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 20px;
+    }
+
+    .step-item {
+        width: 1150px;
+    }
+
+
+    .chessplayer-title h2 {
+        font-size: 42px;
+    }
+
+    .chessplayer-text {
+        margin-bottom: 20px;
+    }
+
+    .chessplayer-champion {
+        justify-content: center;
+        gap: 40px;
+    }
+}
+
+@media (max-width: 800px) {
+    .chessplayer-title {
+        justify-content: center;
+    }
+
+    .step-img {
+        bottom: -160px;
+    }
+}
+
+@media (max-width: 685px) {
+    tr {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    td {
+        padding: 16px 0;
+    }
+    
+    .vl {
+        border-left: none;
+    }
+}
+
+@media (max-width: 590px) {
+
+    .head-line {
+        font-size: 45px;
+    }
+    
+    .header-content p {
+        text-align: left;
+    }
+    
+    .btns {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 14px;
+    }
+    
+    .btns-link {
+        padding: 20px 18px;
+    }
+    
+    .ticker__item {
+        font-size: 16px;
+    }
+
+    .btns-link {
+        width: 335px;
+    }
+
+    .chessplayer {
+        margin-bottom: 100px;
+    }
+}
+
+@media (max-width: 375px) {
+    .header {
+        background: url(./../img/header1.png) center repeat;
+    }
+    
+    .head-line {
+            font-size: 36px;
+        }
+
+    .header-content {
+        padding-top: 40px;
+    }
+
+    .header-content p {
+        padding-bottom: 32px;
+    }
+
+    .tourney-content{
+        flex-wrap: wrap;
+    }
+
+
+    .tourney-title {
+        font-size: 28px;
+    }
+
+    .session-title {
+        font-size: 28px;
+    }
+
+    .step-title h2 {
+        font-size: 42px;
+        padding-bottom: 20px;
+    }
+
+    .chessplayer-title {
+        font-size: 36px;
+    }
+}
