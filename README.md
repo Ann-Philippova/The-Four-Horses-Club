@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Адаптивная верстка сайта <a href="https://ann-philippova.github.io/The-Four-Horses-Club/" target="_blank">Клуб 4 коней</a></h1><br>
   
-  <a href="[https://ann-philippova.github.io/The-Four-Horses-Club/" target="_blank">
+  <a href="https://ann-philippova.github.io/The-Four-Horses-Club/" target="_blank">
     <img src="https://github.com/Ann-Philippova/The-Four-Horses-Club/blob/main/img/tourney.png" alt="Logo" width="600" height="400">
   </a>
 
